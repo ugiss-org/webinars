@@ -13,4 +13,4 @@ Francesco Diaz - Amazon Web Services - EMEA Sr. GTM Spec, Analytics
 * Vimeo: https://vimeo.com/ugiss/awsdlserverless
 * Youtube: https://youtu.be/caO_IpMmIkE
 * Registrazione: https://ugiss_webinar_data_lake_serverless_aws.eventbrite.it
-* 
+
