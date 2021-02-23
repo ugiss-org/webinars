@@ -1,3 +1,4 @@
-# webinars
+# UGISS Webinars
 
-Repository slide e demo webinars UGISS
+Repository slide e demo webinars User Group Italiano SQL Server
+
